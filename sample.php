@@ -1,13 +1,11 @@
 <?php
-
-
 function groupByCommits($jenkinResponse)
 {
     // $branch = ['dev', 'test', 'uat', 'prelive', 'live'];
     $jenkinResponseArray = json_decode($jenkinResponse, true);
     $branches = (array_values(array_unique(array_column($jenkinResponseArray, 'branch_name'))));
     $branch = ['dev' => $branches[0], 'test' => $branches[1], 'uat' => $branches[2], 'prelive' => $branches[3], 'live' => $branches[4]];
-    // print_r($jenkinResponseArray);
+    print_r($jenkinResponseArray);
     // die;
     $newGroupdata = [
         'upto_dev' => [],
