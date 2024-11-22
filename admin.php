@@ -22,6 +22,6 @@
         ];
 
         // Render the view with the provided data and breadcrumb navigation
-        return $this->view('backlog/refinement', $data, 'Backlog Refinement', $breadcrumbs);
+        return $this->template_view('backlog/refinement', $data, 'Backlog Refinement', $breadcrumbs);
     }
 ?>
