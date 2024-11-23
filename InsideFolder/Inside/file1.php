@@ -6,6 +6,9 @@
 
     if(true){
         echo "ddf";
-    
+        function pub(){
+            echo "hello";
+        }
+    }
 
 ?>
