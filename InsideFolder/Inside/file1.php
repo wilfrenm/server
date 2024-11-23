@@ -5,6 +5,6 @@
     print_r($var);
     if(true){
         echo "ddf";
-    }
+    
 
 ?>
