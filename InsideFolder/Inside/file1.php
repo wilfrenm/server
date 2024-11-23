@@ -1,6 +1,6 @@
 <?php
 
-    $var=""ffgb";
+    $var="ffgb";
     $car="kodvmv";
     print_r($var);
 
@@ -11,6 +11,6 @@
         }
     }
 
-    echo "">"dsmvkpodmvpo"dsvbf;
+    echo "dsmvkpodmvpodsvbf";
 
 ?>
