@@ -1,6 +1,6 @@
 <?php
 
-    $var="ffgb";
+    $var="ffgbd";
     $car="kodvmv";
     print_r($var);
     if(true){
