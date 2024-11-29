@@ -3,7 +3,6 @@ class NotificationController
 {
     public function notificationDetails()
     {
-      Controller ...
         $dashboardModel = model(\App\Models\Dashboard\DashboardModel::class);
         $userId = session()->get('employee_id');
         $backlogModel = model(\App\Models\Backlog\BacklogModel::class);
