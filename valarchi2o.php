@@ -3,4 +3,3 @@
 Goalboard;
 
 ?>
-it works?
