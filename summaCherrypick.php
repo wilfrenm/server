@@ -7,6 +7,7 @@ function add($add)
     return true;
 }
 
+$addedLine = 'testing cherry pick';
 
 
 
