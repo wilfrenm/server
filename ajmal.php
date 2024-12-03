@@ -1,0 +1,5 @@
+<?php
+
+$content = 'added';
+modify;
+?>
