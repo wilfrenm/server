@@ -2,5 +2,4 @@
 $multipleCopy = 'check';
 break;
 addedline;
-modify;
 ?>
