@@ -2,4 +2,5 @@
 
 $content = 'added';
 modify;
+part 2;
 ?>
