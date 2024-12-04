@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Helpers;
-this->function();
+
 use DateTime;
 
 class CustomHelpers
