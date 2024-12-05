@@ -1,6 +1,6 @@
 <?php
 
-check
+
 <div class="process-flow-container">
   <div class="process-step <?php echo $data['progresscontent'][0] == 1 ? 'completed' : 'incomplete'; ?>">
     <div class="icon-container">
