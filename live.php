@@ -1,5 +1,0 @@
-<?php
-
-    $path="Upto live";
-
-?>
