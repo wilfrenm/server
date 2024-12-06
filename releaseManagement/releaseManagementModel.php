@@ -3,7 +3,7 @@ namespace App\Models;
 
 use App\Models\BaseModel;
 use CodeIgniter\HTTP\Message;
-
+Deepika Model not work properly !?
 class ReleaseManagementModel extends BaseModel
 {
     protected $table = "log_details";
