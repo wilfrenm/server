@@ -1,5 +1,0 @@
-<?php
-
-$content = 'added';
-modify;
-?>
