@@ -2,7 +2,7 @@
 namespace App\Controllers;
 
 /**
- * ReleaseManagementController.phppppp
+ * ReleaseManagementController.php
  *
  * @category   Controller
  * @purpose    manages commits done for the products and perform movement of files from one branch to another
