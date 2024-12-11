@@ -20,7 +20,6 @@ class GoalsController extends BaseController
     protected $scrumPeopleMonthlyRatingObj;
 	public $managementController;
     protected $ScrumGoalsCategoryModelObj;
-    public $employeeId;
 
     public function __construct()
     {
