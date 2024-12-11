@@ -18,7 +18,7 @@ class GoalsController extends BaseController
     protected $scrumGoalTasksModelObj;
     protected $scrumGoalsFeedbackModelObj;
     protected $scrumPeopleMonthlyRatingObj;
-
+	public $managementController;
     protected $ScrumGoalsCategoryModelObj;
     public $employeeId;
 
