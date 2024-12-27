@@ -4,6 +4,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Call the function to insert data
     insertData($_POST);
 }
+ajmal;
 
 // Function to insert data into the database
 function insertData($data)
